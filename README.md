@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently a full-time software developer at <a href="http://resourcedata.com" target="_blank">@Resource Data</a>
 - 🌱 Following #100DaysOfCode for Python
-- 🥅 2024 Goal: Make full-stack project utilizing tools like Streamlit, GraphQL, and Docker 🐳
+- 🥅 2024 Goal: Make 3 full-stack projects utilizing tools like Streamlit, GraphQL, and Docker 🐳
 - ⚡ Fun fact: On track to attain Private Pilot License! 🛩️ <a href="https://www.instagram.com/pilot.parky/?hl=en">
   <img src="https://img.shields.io/badge/pilot.parky-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
 </a>
