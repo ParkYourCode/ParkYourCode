@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently open to work as full-time software developer
 - 🌱 Following #100DaysOfCode for Python
-- 🥅 2025 Goal: Create and publish a game on IOS about Cats and Space
+- 🥅 2025 Goal: Create and publish a game on iOS about Cats and Space
 </a>
 
 
