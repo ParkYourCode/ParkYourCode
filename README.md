@@ -1,16 +1,14 @@
 ## Hey! 👋
 
-#### I'm Andrew, an aspiring 25 year-old software developer from📍Houston, Texas. 
+#### I'm Andrew, an aspiring 26 year-old software developer from📍Houston, Texas. 
 
 <a href="https://www.linkedin.com/in/andrewsunghyunpark/">
   <img src="https://img.shields.io/badge/andrewpark-blue?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 
-- 🔭 I’m currently a full-time software developer at <a href="http://resourcedata.com" target="_blank">@Resource Data</a>
+- 🔭 I’m currently open to work as full-time software developer
 - 🌱 Following #100DaysOfCode for Python
-- 🥅 2024 Goal: Make 3 full-stack projects utilizing tools like Streamlit, GraphQL, and Docker 🐳
-- ⚡ Fun fact: On track to attain Private Pilot License! 🛩️ <a href="https://www.instagram.com/pilot.parky/?hl=en">
-  <img src="https://img.shields.io/badge/pilot.parky-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white" />
+- 🥅 2025 Goal: Create and publish a game on IOS about Cats and Space
 </a>
 
 
