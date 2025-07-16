@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-#### I'm Andrew, an aspiring 26 year-old software developer from📍Houston, Texas. 
+#### I'm Andrew, an aspiring 26 year-old software developer from📍Los Angeles, California. 
 
 <a href="https://www.linkedin.com/in/andrewsunghyunpark/">
   <img src="https://img.shields.io/badge/andrewpark-blue?style=flat-square&logo=linkedin&logoColor=white" />
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently open to work as full-time software developer
 - 🌱 Following #100DaysOfCode for Python
-- 🥅 2025 Goal: Create and publish a game on iOS about Cats and Space
+- 🥅 2025 Goal: Complete 5 data analysis projects
 </a>
 
 
