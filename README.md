@@ -1,6 +1,6 @@
 ## Hey! 👋
 
-#### I'm Andrew, an aspiring 27 year-old software developer from📍Los Angeles, California. 
+#### I'm Andrew, an aspiring 27 year-old data analyst from📍Los Angeles, California. 
 
 <a href="https://www.linkedin.com/in/andrewsunghyunpark/">
   <img src="https://img.shields.io/badge/andrewpark-blue?style=flat-square&logo=linkedin&logoColor=white" />
