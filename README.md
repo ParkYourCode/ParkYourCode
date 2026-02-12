@@ -1,21 +1,19 @@
-## Hey! 👋
+## 👋 Hey! I'm Andrew, an aspiring 27 year-old data analyst from📍Los Angeles, California. 
+I'm currently a Data Analyst Contractor at Hyundai Translead.
 
-#### I'm Andrew, an aspiring 27 year-old data analyst from📍Los Angeles, California. 
-
-<a href="https://www.linkedin.com/in/andrewsunghyunpark/">
-  <img src="https://img.shields.io/badge/andrewpark-blue?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
 
 - 🔭 I’m currently open to work as full-time data engineer or analyst
 - 🥅 2026 Goal: Master data engineering concepts
+
+### 📚 Projects
+You can see my projects [here](https://github.com/ParkYourCode/Portfolio-Guide).
+
+### 🛠️ Tools
+Language: Python, SQL
+Cloud Services: Azure Databricks, Google BigQuery, Azure Data Factory
+Visualization: Power BI, Excel
+
+### 🤙 Let's Connect!
+<a href="[your-linkedin-URL](https://www.linkedin.com/in/andrewsunghyunpark/)">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
-
-### I use these for coding
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=fff)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
