@@ -1,4 +1,4 @@
-## 👋 Hey! I'm Andrew, an aspiring 27 year-old data analyst from📍Los Angeles, California. 
+## 👋 Hey! I'm Andrew, an aspiring data analyst in LA📍
 - 🔭 I’m currently open to work as permanent, full-time data engineer or analyst
 - 🥅 2026 Goal: Master data engineering concepts
 
